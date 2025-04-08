@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NNLXLDG，or my real name XIEXUKANG,a sophomore student in Zhejiang University of Technology ,China.
+- 👋 Hi, I’m @NNLXLDG , or my real name XIEXUKANG , a sophomore student in Zhejiang University of Technology ,China.
 - 👀 My hobby is to use different operating systems and various useful software. I have been on the path of learning all kinds of IT knowledge. I hope that one day I can develop the software that I like and that is beneficial to this industry.
 
 
