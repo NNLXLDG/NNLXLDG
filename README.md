@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=Nice%20to%20meet%20you!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Nice%20to%20meet%20you!&fontSize=90&desc=I'm%20glad%20to%20introduce%20myself!%20--Your%20NNLXLDG@2025&descAlignY=80&fontColor=000000)
 
 
 - 👋 Hi, I’m @NNLXLDG , or my real name XIEXUKANG , a sophomore student in Zhejiang University of Technology ,China.
