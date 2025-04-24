@@ -23,7 +23,11 @@
 
 
 
-<img src="https://github.com/NNLXLDG/NNLXLDG/blob/main/1744871082775(1).JPG" width="50%" height="auto"> 
+<div style="text-align: center;">
+    <img src="https://github.com/NNLXLDG/NNLXLDG/blob/main/1745510477654.jpg" width="60%" height="auto"> 
+</div>
+
+
 
 
 
