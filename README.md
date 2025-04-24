@@ -24,7 +24,7 @@
 
 
 
-![image](https://github.com/NNLXLDG/NNLXLDG/blob/main/1744871082775(1).JPG)
+<img src="https://github.com/NNLXL DG/NNLXL DG/blob/main/1744871082775(1).JPG" alt="image" width="50%" height="auto"> 
 
 
 
