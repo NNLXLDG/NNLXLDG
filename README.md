@@ -5,7 +5,7 @@
 - 📖 Studying in the Intelligent Science Major , focused on artificial intelligence, machine learning, robotics, data mining, and neural networks, the curriculum covers knowledge in:
   + Mathematics (calculus, linear algebra, probability and statistics)
   + Fundamentals of computer science (programming, data structures)
-  + Artificial intelligence
+  + Machine learning algorithms (such as decision trees, deep learning), Computer vision, Natural language processing, Robotics
 
 - ✊ I hope to become an excellent developer in the future and make my own contributions to this industry.
 
