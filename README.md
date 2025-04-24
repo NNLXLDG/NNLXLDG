@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Nice%20to%20meet%20you!&fontSize=75&desc=I'm%20glad%20to%20introduce%20myself!%20--Your%20NNLXLDG@2025&descAlignY=80&fontColor=000000)
 
 ## Basic Information
-- 👋 Hi, I’m @NNLXLDG , or my real name XIEXUKANG , a sophomore student passionate in Digital gadgets & Photography & Software technology & Graphic design
+- 👋 Hi, I’m @NNLXLDG , or my real name XIEXUKANG , a sophomore student passionate in Digital gadgets & Photography & Software technology & Graphic design.
 - 📖 Studying in the Intelligent Science Major , focused on artificial intelligence, machine learning, robotics, data mining, and neural networks, the curriculum covers knowledge in:
   + Mathematics (calculus, linear algebra, probability and statistics)
   + Fundamentals of computer science (programming, data structures)
@@ -24,7 +24,7 @@
 
 
 
-
+![image]()
 
 
 
