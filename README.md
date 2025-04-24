@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Nice%20to%20meet%20you!&fontSize=75&desc=I'm%20glad%20to%20introduce%20myself!%20--Your%20NNLXLDG@2025&descAlignY=80&fontColor=000000)
 
 ## Basic Information
-- 👋 Hi, I’m @NNLXLDG , or my real name XIEXUKANG , a sophomore student in Zhejiang University of Technology ,China.
-- 👀 My hobby is to use different operating systems and various useful software. I have been on the path of learning all kinds of IT knowledge. I hope that one day I can develop the software that I like and that is beneficial to this industry.
+- 👋 Hi, I’m @NNLXLDG , or my real name XIEXUKANG , a sophomore student passionate in Digital gadgets & Photography & Software technology & Graphic design
+- 📖 Studying in the Intelligent Science Major , focused on artificial intelligence, machine learning, robotics, data mining, and neural networks, the curriculum covers knowledge in:
+  + Mathematics (calculus, linear algebra, probability and statistics)
+  + Fundamentals of computer science (programming, data structures)
+  + Artificial intelligence
+
+- ✊ I hope to become an excellent developer in the future and make my own contributions to this industry.
 
 ## Programming Languages
 [![我的技能](https://skillicons.dev/icons?i=py,c,cpp,go,matlab&theme=light)](https://skillicons.dev)
