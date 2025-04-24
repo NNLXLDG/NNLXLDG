@@ -5,7 +5,7 @@
 - 👀 My hobby is to use different operating systems and various useful software. I have been on the path of learning all kinds of IT knowledge. I hope that one day I can develop the software that I like and that is beneficial to this industry.
 
 ## Programming Languages
-[![我的技能](https://skillicons.dev/icons?i=py,c,cpp,java,go,matlab&theme=light)](https://skillicons.dev)
+[![我的技能](https://skillicons.dev/icons?i=py,c,cpp,go,matlab&theme=light)](https://skillicons.dev)
 
 ## Web Development
 [![我的技能](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
