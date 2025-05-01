@@ -3,7 +3,7 @@
 ## Basic Information
 - 👋 Hi, I’m @NNLXLDG, or my real name XIEXUKANG. I’m a sophomore student passionate about digital devices, photography, software technology, and graphic design.
 - 📖 I’m studying in the Intelligent Science Major, which focuses on artificial intelligence, machine learning, robotics, data mining, and neural networks. The curriculum covers knowledge in the following areas:
-   - Machine learning algorithms (such as decision trees, deep learning)
+   - Machine learning algorithms
    - Computer vision
    - Natural language processing
    - Robotics
