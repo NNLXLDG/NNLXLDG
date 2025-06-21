@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Nice%20to%20meet%20you!&fontSize=75&desc=I'm%20glad%20to%20introduce%20myself!%20--Your%20NNLXLDG@2025&descAlignY=80&fontColor=000000)
-
 ## Basic Information
 - 👋 Hello, I'm @NNLXLDG. As a sophomore, I'm deeply passionate about digital devices, photography, software technology, and graphic design.
 - 📖 I'm majoring in Intelligent Science, with a focus on artificial intelligence, machine learning, robotics, data mining, and neural networks. The curriculum encompasses the following areas:Machine learning algorithms，Computer vision，Natural language processing，Robotics.
