@@ -6,12 +6,6 @@
 ## Programming Languages
 [![我的技能](https://skillicons.dev/icons?i=py,c,cpp,matlab,go&theme=light)](https://skillicons.dev)
 
-## Web Development
-[![我的技能](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
-
-## Cloud & DevOps
-[![我的技能](https://skillicons.dev/icons?i=cmake,docker,gmail,git,github&theme=light)](https://skillicons.dev)
-
 ## Tools & Platforms
 [![我的技能](https://skillicons.dev/icons?i=apple,md,anaconda,pycharm,webstorm,qt,idea,visualstudio,vscode,unreal&theme=light)](https://skillicons.dev)
 
