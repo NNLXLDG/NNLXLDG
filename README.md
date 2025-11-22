@@ -4,10 +4,10 @@
 - ✊ My aspiration is to become an outstanding developer in the future and contribute to the industry. 
 - Contact me : xukangxie6@gmail.com
 ## Programming Languages
-[![我的技能](https://skillicons.dev/icons?i=py,c,cpp,matlab,go&theme=light)](https://skillicons.dev)
+[![我的技能](https://skillicons.dev/icons?i=py,c,cpp,java,matlab&theme=light)](https://skillicons.dev)
 
 ## Tools & Platforms
-[![我的技能](https://skillicons.dev/icons?i=apple,md,anaconda,pycharm,webstorm,qt,idea,visualstudio,vscode,unreal&theme=light)](https://skillicons.dev)
+[![我的技能](https://skillicons.dev/icons?i=apple,md,anaconda,pycharm,idea,visualstudio,vscode,&theme=light)](https://skillicons.dev)
 
 
 
