@@ -7,7 +7,7 @@
 [![我的技能](https://skillicons.dev/icons?i=py,c,cpp,java,matlab&theme=light)](https://skillicons.dev)
 
 ## Tools & Platforms
-[![我的技能](https://skillicons.dev/icons?i=apple,md,anaconda,pycharm,idea,visualstudio,vscode,&theme=light)](https://skillicons.dev)
+[![我的技能](https://skillicons.dev/icons?i=apple,windows,md,anaconda,pycharm,idea,visualstudio,vscode,&theme=light)](https://skillicons.dev)
 
 
 
