@@ -1,8 +1,8 @@
 ## Basic Information
 👋 Hi, I’m **Xukang Xie**, currently a junior undergraduate student. My interests and research areas include **Large Models**, **Computer Vision**, and **Embodied Intelligence**.
-	•	📂 On this GitHub, I share **study notes, paper reading notes, experiment reproductions** (with code and reproducible pipelines), and **personal projects**.
-	•	🔬 My work focuses on **reproducible engineering, model training details, experimental analysis**, and **deployment strategies**.
-	•	🎯 My goal is to contribute to the AI era through solid research and practical engineering.
+- 📂 On this GitHub, I share **study notes, paper reading notes, experiment reproductions** (with code and reproducible pipelines), and **personal projects**.
+- 🔬 My work focuses on **reproducible engineering, model training details, experimental analysis**, and **deployment strategies**.
+- 🎯 My goal is to contribute to the AI era through solid research and practical engineering.
 
 📫 Contact: xukangxie6@gmail.com￼
 
