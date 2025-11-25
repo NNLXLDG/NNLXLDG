@@ -1,11 +1,10 @@
 ## Basic Information
-👋 我叫Xukang Xie，当前大三(junior undergraduate student)，兴趣与学习方向：**大模型（Large Models） · 机器视觉（Computer Vision） · 具身智能（Embodied Intelligence）**。  
+👋 Hi, I’m **Xukang Xie**, currently a junior undergraduate student. My interests and research areas include **Large Models**, **Computer Vision**, and **Embodied Intelligence**.
+	•	📂 On this GitHub, I share **study notes, paper reading notes, experiment reproductions** (with code and reproducible pipelines), and **personal projects**.
+	•	🔬 My work focuses on **reproducible engineering, model training details, experimental analysis**, and **deployment strategies**.
+	•	🎯 My goal is to contribute to the AI era through solid research and practical engineering.
 
-- 📂 在这个 GitHub 我会分享：学习笔记、论文读书笔记、实验复现（含代码与复现实验流程）以及个人项目。  
-- 🔬 研究/实践侧重：可复现的工程实现、模型训练细节、实验分析与部署策略。  
-- 🎯 我的目标：通过扎实的研究与工程实践，为 AI 时代的技术发展与应用贡献力量。 
-
-📫 联系我：[xukangxie6@gmail.com](mailto:xukangxie6@gmail.com)  
+📫 Contact: xukangxie6@gmail.com￼
 
 ## Programming Languages
 [![我的技能](https://skillicons.dev/icons?i=py,c,cpp,java,matlab&theme=light)](https://skillicons.dev)
