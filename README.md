@@ -1,8 +1,12 @@
 ## Basic Information
-- 👋 Hello, I'm @NNLXLDG. As a sophomore, I'm deeply passionate about digital devices, photography, software technology, and graphic design.
-- 📖 I'm majoring in Intelligent Science, with a focus on artificial intelligence, machine learning, robotics, data mining, and neural networks. The curriculum encompasses the following areas:Machine learning algorithms，Computer vision，Natural language processing，Robotics.
-- ✊ My aspiration is to become an outstanding developer in the future and contribute to the industry. 
-- Contact me : xukangxie6@gmail.com
+👋 我叫Xukang Xie，当前大三(junior undergraduate student)，兴趣与学习方向：**大模型（Large Models） · 机器视觉（Computer Vision） · 具身智能（Embodied Intelligence）**。  
+
+- 📂 在这个 GitHub 我会分享：学习笔记、论文读书笔记、实验复现（含代码与复现实验流程）以及个人项目。  
+- 🔬 研究/实践侧重：可复现的工程实现、模型训练细节、实验分析与部署策略。  
+- 🎯 我的目标：通过扎实的研究与工程实践，为 AI 时代的技术发展与应用贡献力量。 
+
+📫 联系我：[xukangxie6@gmail.com](mailto:xukangxie6@gmail.com)  
+
 ## Programming Languages
 [![我的技能](https://skillicons.dev/icons?i=py,c,cpp,java,matlab&theme=light)](https://skillicons.dev)
 
