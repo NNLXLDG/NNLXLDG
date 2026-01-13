@@ -4,8 +4,7 @@
 - 🔬 My work focuses on **reproducible engineering, model training details, experimental analysis**, and **deployment strategies**.
 - 🎯 My goal is to contribute to the AI era through solid research and practical engineering.
 
-📫 Contact: xukangxie6@gmail.com￼
-
+📫 Contact: xukangxie6@gmail.com  
 🥳 Website: https://nnlxldg.github.io
 
 ## Programming Languages
