@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<b><i>👋&nbsp;Hi here, I'm XukangXie (谢许康)</i></b>
+<b><i>👋&nbsp;Hi there, I'm XukangXie (谢许康)</i></b>
 <br>
 <i>✊&nbsp;Both Attention & Passion are all you need !</i> 
 <br>
