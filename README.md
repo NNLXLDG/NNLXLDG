@@ -1,17 +1,23 @@
-## Basic Information
-👋 Hi, I’m **Xukang Xie**, currently a junior undergraduate student. My interests and research areas include **Large Models**, **Computer Vision**, and **Embodied Intelligence**.
-- 📂 On this GitHub, I share **study notes, paper reading notes, experiment reproductions** (with code and reproducible pipelines), and **personal projects**.
-- 🔬 My work focuses on **reproducible engineering, model training details, experimental analysis**, and **deployment strategies**.
-- 🎯 My goal is to contribute to the AI era through solid research and practical engineering.
+<div align="center">
+    <img src="image/profile_final.png">
+</div>
 
-📫 Contact: xukangxie6@gmail.com  
-🥳 Website: https://nnlxldg.github.io
 
-## Programming Languages
-[![我的技能](https://skillicons.dev/icons?i=py,c,cpp,java,matlab&theme=light)](https://skillicons.dev)
 
-## Tools & Platforms
-[![我的技能](https://skillicons.dev/icons?i=apple,linux,md,anaconda,pycharm,idea,visualstudio,vscode,&theme=light)](https://skillicons.dev)
+
+
+<div align="center">
+<b><i>👋&nbsp;Hi here, I'm XukangXie (谢许康)</i></b>
+<br>
+<i>✊&nbsp;Both Attention & Passion are all you need !</i> 
+<br>
+https://nnlxldg.github.io
+</div>
+
+## About me
+-  📖 Major in Intelligent Science and Technology , a junior undergraduate student now.
+-  🧠 Interest : Software engineering , Automation and LLM application.
+-  📫 Please reach me at: xukangxie6@gmail.com
 
 
 
