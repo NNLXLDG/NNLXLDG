@@ -15,8 +15,8 @@ https://nnlxldg.github.io
 </div>
 
 ## About me
--  📖 Major in Intelligent Science and Technology , a junior undergraduate student now.
--  🧠 Interest : Software engineering , Automation and LLM application.
+-  📖 Major in Intelligent Science and Technology , a senior undergraduate student now.
+-  🧠 Interest : Robotics , Computer Vision and LLM agent.
 -  📫 Please reach me at: xukangxie6@gmail.com
 
 
