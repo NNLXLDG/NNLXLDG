@@ -17,7 +17,7 @@ https://nnlxldg.github.io
 ## About me
 -  📖 Major in Intelligent Science and Technology , a senior undergraduate student now.
 -  🧠 Interest : Robotics , Computer Vision and LLM agent.
--  📫 Please reach me at: xukangxie6@gmail.com, Google Scholar https://scholar.google.com/citations?view_op=list_works&hl=en&user=1AS37jYAAAAJ
+-  📫 Please reach me at: xukangxie6@gmail.com, Google Scholar [Research profile and publications](https://scholar.google.com/citations?view_op=list_works&hl=en&user=1AS37jYAAAAJ)
 
 
 
